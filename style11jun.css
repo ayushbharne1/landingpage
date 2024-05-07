@@ -165,7 +165,6 @@ html,body{
     background-image: url(img/kidst.avif);
     background-position: center;
     background-size: cover;
-    
     opacity: 0;
     animation-name: ranime;
     animation-duration: 1.4s;
@@ -186,7 +185,6 @@ html,body{
     width: 100%;
     height: 100%;
     position: relative;
-    
     display: flex;
     align-items: center;
     justify-content: center;
@@ -199,7 +197,6 @@ html,body{
     text-transform: uppercase ;
     font-weight: 900;
     -webkit-text-stroke: 1px black;
-
     background-image: url(img/rainbow-roygbiv.gif);
     background-size: cover;
     background-position: center;
